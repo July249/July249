@@ -3,7 +3,7 @@ import Navbar from './components/Navbar';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "Jibro's Blog",
+  title: "Jibro's Log",
   description: 'Created by Jibro',
 };
 
